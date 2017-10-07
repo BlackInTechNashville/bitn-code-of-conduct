@@ -1,3 +1,5 @@
+![logo](/images/bitn-logo.png)
+
 # Blacks In Technology Nashville Code Of Conduct
 
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
